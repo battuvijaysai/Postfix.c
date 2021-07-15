@@ -31,7 +31,7 @@ int main()
         {
             n1 = pop();
             n2 = pop();
-            switch(*e)
+            switch(*e) 
             {
             case '+':
             {
